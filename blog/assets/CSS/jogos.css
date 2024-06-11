@@ -20,6 +20,7 @@
 }
 
 #area-postagens{
+    padding: 0;
     width: 660px;
     float: left;
 }
@@ -60,7 +61,7 @@
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 140px;
 }
 
 a {
